@@ -9,7 +9,7 @@
   <br />
   <br />
 
-  <h2 align="center">Keofi - Bara Coffie</h2>
+  <h2 align="center"> Bara Coffie</h2>
 
   Bara Coffie Website Responsif, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
