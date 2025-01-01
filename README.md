@@ -3,8 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/keofi)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/keofi?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/keofi?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/xrBDp8mUmog?style=social)](https://youtu.be/xrBDp8mUmog)
+
 
   <br />
   <br />
